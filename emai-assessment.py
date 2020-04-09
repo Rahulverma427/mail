@@ -10,8 +10,8 @@ def call_ui():
 	def sendmail():
 		smtp_ssl_host = 'smtp.gmail.com'
 		smtp_ssl_port = 465
-		username = 'temp.mail.mca@gmail.com'
-		password = 'qwerty@1234'
+		username = 'xxxxxxxxxxxxxxxxxxxxxxx'
+		password = 'xxxxxxxxxxxx'
 		sender = 'assignments.mca5b@gmail.com'
 		targets = to_entry.get()
 		msg = MIMEMultipart()
